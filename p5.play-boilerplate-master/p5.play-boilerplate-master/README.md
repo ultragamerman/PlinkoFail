@@ -1,2 +1,1 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+OH COME ON MAN THE CODE DOESN'T WORK AT ALL!
